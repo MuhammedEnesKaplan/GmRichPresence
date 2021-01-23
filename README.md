@@ -5,7 +5,7 @@
 ![Gamemaker RichPresence](https://i.hizliresim.com/Ny2LCI.png)
 
 ## SETUP
-
+Video Link: https://youtu.be/N2RKA4Pv4n4
  1. Download the Github File as Zip.
 
 ![enter image description here](https://i.hizliresim.com/xIJTNa.gif)
