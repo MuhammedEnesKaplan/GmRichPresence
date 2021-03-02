@@ -5,20 +5,23 @@
 ![Gamemaker RichPresence](https://i.hizliresim.com/Ny2LCI.png)
 
 ## SETUP
-Video Link: https://youtu.be/N2RKA4Pv4n4
+Video Link: https://youtu.be/N2RKA4Pv4n4 (Turkish)
  1. Download the Github File as Zip.
-
-![enter image description here](https://i.hizliresim.com/xIJTNa.gif)
+    If you want to install as Compiled:
+    
+    ![releases](https://i.hizliresim.com/M3Cqy5.png)
+    ![install exe](https://i.hizliresim.com/wUMKRa.png)
+![download](https://i.hizliresim.com/xIJTNa.gif)
 
  2. Double Click the Exe File and there will be 2 files.
  
-![enter image description here](https://i.hizliresim.com/ee7MM1.gif)
+![open file](https://i.hizliresim.com/ee7MM1.gif)
 
  3. Open the **"PresenceSettings.txt"** File from the created files and write the Location of your Gamemaker Projects in the location field. 
  
  **Note:** *Use **"//"** (Double Slash) when Typing the Position.
  
- *![enter image description here](https://i.hizliresim.com/ZXhlKr.gif)
+ *![editing file](https://i.hizliresim.com/ZXhlKr.gif)
 
 ### Installation Finished.
 Everything Is Ready Now!
@@ -32,7 +35,7 @@ All You Need To Do Is Rerun The Exe File.
  2. Find GmPresence.exe.
  3.  Select the Part You Find and Click End Task.
  
-![enter image description here](https://i.hizliresim.com/46sRPh.png)
+![close program](https://i.hizliresim.com/46sRPh.png)
 
 
 **If There Is A Problem:** *Eneskp3441#3573*
