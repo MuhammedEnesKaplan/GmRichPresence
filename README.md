@@ -16,7 +16,7 @@ Video Link: https://youtu.be/N2RKA4Pv4n4
 
  3. Open the **"PresenceSettings.txt"** File from the created files and write the Location of your Gamemaker Projects in the location field. 
  
- **Note:** *Use **"//"** (Double Swipe) when Typing the Position.
+ **Note:** *Use **"//"** (Double Slash) when Typing the Position.
  
  *![enter image description here](https://i.hizliresim.com/ZXhlKr.gif)
 
