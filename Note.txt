@@ -1,0 +1,2 @@
+run program: GMSDiscordRP\Scripts\python -m pip install discord-rpc.py
+download libs: pip install -r requirements.txt
